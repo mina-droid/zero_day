@@ -1,3 +1,5 @@
 [user]
 	email = msamy0050@gmail.com
 	name = Mina
+[pull]
+	ff = true
